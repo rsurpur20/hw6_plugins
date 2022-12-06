@@ -1,0 +1,7 @@
+# List of plugins to be registered by framework.
+# Provide fully qualified class names here ( edu.cmu.cs.cs214.analyzer.plugin.XXX ),
+# with one plugin per line.
+edu.cmu.cs.cs214.analyzer.plugin.ExamplePlugin
+edu.cmu.cs.cs214.analyzer.plugin.udemy.UdemyPlugin
+edu.cmu.cs.cs214.analyzer.plugin.FCEPlugin
+edu.cmu.cs.cs214.analyzer.plugin.csv.CSVPlugin

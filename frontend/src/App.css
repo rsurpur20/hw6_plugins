@@ -1,0 +1,85 @@
+#board {
+  display: grid;
+  background-color: white;
+  padding: 10px
+}
+
+html,
+body {
+  height: 100%;
+  margin: 0;
+  padding: 0;
+}
+
+.row {
+  display: flex;
+}
+
+.column {
+  margin: 0px;
+  padding: 10px;
+  flex: 50%;
+}
+
+.column div {
+  height: 5vh;
+  font-size: 2vw;
+  text-align: center;
+}
+
+.column button {
+  width: 100%;
+  height: 5vh;
+  font-size: 20px;
+}
+
+form  {
+  display: table;
+}
+
+form p {
+  display: table-row;
+}
+
+form p label {
+  display: table-cell;
+  padding: 3px;
+}
+
+form p input {
+  display: table-cell;
+}
+
+.box {
+  padding: 20px;
+  margin: 10px;
+  font-size: 25px;
+  white-space: pre-line;
+  border: 1px solid black;
+  overflow: hidden;
+}
+
+#kanban {
+  background-color: lightskyblue;
+  text-align: center;
+}
+
+#instructions {
+  background-color: wheat;
+}
+
+#instructions div {
+  width: 50%;
+  margin: 0;
+  padding: 0;
+  position: relative;
+  float: left;
+  white-space: pre-line;
+  min-height: 150px;
+  overflow: hidden;
+}
+
+#status {
+  background-color: pink;
+  text-align: center;
+}

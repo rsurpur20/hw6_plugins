@@ -1,0 +1,6 @@
+﻿ID,Year,Name,Description,Instructor 1,Instructor 2,Instructor 3,Organization,Category,Level,Students,Hours,Weeks,Workload,Rate,Price
+1234,2022,Discrete Time Finance,A very hard mathematical finance course.,Martin Larsson,,,CMU,Mathematical Sciences,Junior,30,300,15,20,4,100
+5678,2022,Principles of Software,Fun software design class.,Vincent Hellendoorn,Claire Le Goues,,CMU,Software Institute,Sophomore,200,150,15,10,5,50
+3578,2021,Mathematical Finance,An introductory math finance course,William Hrusa,,,CMU,Mathematical Sciences,Sophomore,100,200,15,25,5,0
+1892,2022,Continuous Time Finance,A super hard class,Gautam Iyer,,,CMU,Mathematical Sciences,Senior,30,350,15,100,3.7,49.99
+6237,2021,Computer Systems,Best class at CMU,Gregory Kesden,,,CMU,CIT,Sophomore,100,250,15,75,5,90
